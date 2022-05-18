@@ -1,0 +1,243 @@
+{
+  "products": [
+    {
+      "name": "iPhone 11",
+      "description": "Чип A13 Bionic с 4-ядерным графическим процессором. Дисплей из прочного стекла, торцы из алюминия",
+      "price": 580,
+      "image": "https://www.istore.kg/media/products/11-black_qdkqJZQ.webp",
+      "color": "black",
+      "size": "64",
+      "id": 1,
+      "feedBacks": [
+        {
+          "title": "Классный айфон",
+          "user": "Абдукерим"
+        }
+      ],
+      "likes": 1
+    },
+    {
+      "name": "iPhone 12",
+      "description": "Усовершенствованная система с двумя камерами и записью Dolby Vision HDR. 6,1-дюймовый дисплей Super Retina XDR с True Tone",
+      "price": 750,
+      "image": "https://www.istore.kg/media/products/12-Product-Red.webp",
+      "color": "red",
+      "size": "128",
+      "id": 2
+    },
+    {
+      "name": "iPhone 13 mini",
+      "description": "Система с двумя камерами для съемки фото и видео в условиях низкой освещенности. 5,4-дюймовый дисплей Super Retina XDR с True Tone.",
+      "price": 840,
+      "image": "https://www.istore.kg/media/products/iphone-13-mini-pink-select-2021.webp",
+      "color": "gold",
+      "size": "256",
+      "id": 3
+    },
+    {
+      "name": "iPhone 13",
+      "description": "A15 Bionic с 4-ядерным графическим процессором - быстрее, чем у конкурентов. Дисплей Ceramic Shield прочнее, чем любое стекло смартфона",
+      "price": 880,
+      "image": "https://www.istore.kg/media/products/iphone-13-green-select_VLbGgMB.webp",
+      "color": "green",
+      "size": "512",
+      "feedbacks": [],
+      "id": 4
+    },
+    {
+      "name": "iPhone 13 Pro",
+      "description": "Самая большая модернизация системы камер Pro. 6,1-дюймовый дисплей Super Retina XDR с функцией ProMotion 120Гц",
+      "price": 1170,
+      "image": "https://www.istore.kg/media/products/iphone-13-pro-blue-select.webp",
+      "color": "blue",
+      "size": "1",
+      "id": 5
+    },
+    {
+      "name": "iPhone 13 Pro Max",
+      "description": "A15 Bionic с 5-ядерным GPU - самый быстрый чип в смартфоне. Дисплей Ceramic Shield прочнее, чем любое стекло смартфона",
+      "price": 1270,
+      "image": "https://www.istore.kg/media/products/iphone-13-pro-max-silver-select.webp",
+      "color": "white",
+      "size": "1",
+      "id": 6
+    },
+    {
+      "name": "Studio Display",
+      "description": "Потрясающий 27-дюймовый дисплей Retina 5K, и миллиард цветов. Ультраширокая камера 12 МП с функцией \"В центре внимания\"",
+      "price": 2000,
+      "image": "https://www.istore.kg/media/products/studio-display-1.webp",
+      "color": "white",
+      "size": "1",
+      "id": 7
+    },
+    {
+      "name": "MacBook Air 13",
+      "description": "Чип Apple M1 обеспечивает мощную производительность CPU, GPU и машинного обучения. Конструкция с пассивным охлаждением для бесшумной работы",
+      "price": 1380,
+      "image": "https://www.istore.kg/media/products/air-13-8-core-gold_BEhRELx.webp",
+      "color": "gold",
+      "size": "512",
+      "id": 8
+    },
+    {
+      "name": "MacBook Pro 13",
+      "description": "Дисплей Retina с яркостью 500 нит для ярких цветов и невероятной детализации. Сверхскоростной SSD-накопитель мгновенно открывает приложения и файлы",
+      "price": 1400,
+      "image": "https://www.istore.kg/media/products/Pro-13-Space-Gray-1_o1z4btz.webp",
+      "color": "black",
+      "size": "256",
+      "id": 9
+    },
+    {
+      "name": "MacBook Pro 14",
+      "description": "Молниеносный чип Apple M1 Pro с 16-ядерной Neural Engine. Thunderbolt 4, HDMI, SDXC и MagSafe 3 для быстрого и универсального подключения",
+      "price": 3200,
+      "image": "https://www.istore.kg/media/products/Pro-14-M1-Silver-US-1_lzqer6g.webp",
+      "color": "white",
+      "size": "1",
+      "feedbacks": [],
+      "id": 10
+    },
+    {
+      "name": "MacBook Pro 16",
+      "description": "FaceTime 1080p, звуковая система с шестью динамиками и микрофоны студийного качества. Дисплей Liquid Retina XDR с модулем ProMotion 24-120Гц",
+      "price": 4200,
+      "image": "https://www.istore.kg/media/products/Pro-16-M1-SP-US-1_RGWcLBN.webp",
+      "color": "black",
+      "size": "1",
+      "id": 11
+    },
+    {
+      "name": "MacBook Pro 16",
+      "description": "FaceTime 1080p, звуковая система с шестью динамиками и микрофоны студийного качества. Thunderbolt 4, HDMI, SDXC и MagSafe 3 для быстрого и универсального подключения",
+      "price": 2990,
+      "image": "https://www.istore.kg/media/products/Pro-16-M1-SP-US-1_VeTIMJM.webp",
+      "color": "black",
+      "size": "512",
+      "id": 12
+    },
+    {
+      "name": "iPad 10.2",
+      "description": "Чип A13 Bionic с Neural Engine делает все ваши действия более отзывчивыми. 10,2-дюймовый дисплей Retina с функцией True Tone для невероятной детализации и ярких цветов",
+      "price": 36960,
+      "image": "https://www.istore.kg/media/products/iPad-9-WiFi-Silver.webp",
+      "color": "white",
+      "size": "64",
+      "feedbacks": [],
+      "id": 13
+    },
+    {
+      "name": "iPad mini 7.9",
+      "description": "Touch ID встроен в кнопку Home для безопасной аутентификации и Apple Pay",
+      "price": 490,
+      "image": "https://www.istore.kg/media/products/ipad-mini-5-silver-256.webp",
+      "color": "white",
+      "size": "256",
+      "feedbacks": [],
+      "id": 14
+    },
+    {
+      "name": "iPad mini 8.3",
+      "description": "Потрясающий 8,3-дюймовый дисплей Liquid Retina с True Tone и широким цветовым охватом P3. 5G и Wi-Fi 6 для сверхскоростного подключения",
+      "price": 580,
+      "image": "https://www.istore.kg/media/products/iPad-mini-WiFi-Pink.webp",
+      "color": "gold",
+      "size": "64",
+      "id": 15
+    },
+    {
+      "name": "iPad Air 10.9",
+      "description": "Поддерживает Apple Pencil (2-го поколения), Magic Keyboard и Smart Keyboard Folio. 5G для сверхскоростной загрузки и высококачественного потокового вещания.",
+      "price": 700,
+      "image": "https://www.istore.kg/media/products/ipad-air-select-wifi-blue-202203.webp",
+      "color": "blue",
+      "size": "256",
+      "id": 16
+    },
+    {
+      "name": "iPad Pro 11",
+      "description": "11-дюймовый дисплей Liquid Retina с функциями ProMotion, True Tone. Поддерживает Apple Pencil (2-го поколения), Magic Keyboard и Smart Keyboard Folio",
+      "price": 920,
+      "image": "https://www.istore.kg/media/products/iPad-Pro-11-WiFi-Space-Gray.webp",
+      "color": "black",
+      "size": "512",
+      "feedbacks": [],
+      "id": 17
+    },
+    {
+      "name": "iPad Pro 12.9",
+      "description": "Чип Apple M1 с производительностью нового уровня. Поддерживает Apple Pencil (2-го поколения), Magic Keyboard и Smart Keyboard Folio",
+      "price": 1130,
+      "image": "https://www.istore.kg/media/products/iPad-Pro-12-9-WiFi-Silver_TwRGhKz.webp",
+      "color": "white",
+      "size": "1",
+      "id": 18
+    },
+    {
+      "name": "Watch SE with Aluminum Case",
+      "description": "Отслеживайте все свои любимые тренировки, такие как плавание, бег, пилатес и тай-чи. Проверяйте пульс в любое время и получайте данные о показателях пульса",
+      "price": 310,
+      "image": "https://www.istore.kg/media/products/MKU93_VW_34FRwatch-40-alum-gold-nc-se_VW_34FR_WF_CO.webp",
+      "color": "gold",
+      "size": "64",
+      "feedbacks": [],
+      "id": 19
+    },
+    {
+      "name": "Watch SE Nike with Aluminum Case",
+      "description": "Ремешки Nike и эксклюзивные циферблаты, а также приложения Nike Run Club. Помощь при обнаружении падений или при вызове SOS, даже если вы за границей",
+      "price": 310,
+      "image": "https://www.istore.kg/media/products/SE-Nike-40-GPS-Pure-Platinum-Black_51dX1Ob.webp",
+      "color": "white",
+      "size": "64",
+      "id": 20
+    },
+    {
+      "name": "Watch Series 6 Nike with Aluminum Case",
+      "description": "Невероятный дисплей Always-On Retina на 40 и 44мм. Дисплей устойчив к царапинам, а также пыле-влагозащищенный",
+      "price": 420,
+      "image": "https://www.istore.kg/media/products/SE-Nike-40-GPS-Anthracite-Black.webp",
+      "color": "black",
+      "size": "64",
+      "id": 21
+    },
+    {
+      "name": "Watch Series 7 with Aluminum Case",
+      "description": "На сегодняшний день, это самый большой дисплей Always-On Retina. Датчик измерения уровня кислорода в крови",
+      "price": 440,
+      "image": "https://www.istore.kg/media/products/7-41-Green-GPS.webp",
+      "color": "green",
+      "size": "64",
+      "id": 22
+    },
+    {
+      "name": "Watch Series 7 Nike with Aluminum Case",
+      "description": "Ремешки Nike и эксклюзивные циферблаты, а также приложения Nike Run Club. Измерьте уровень кислорода в крови, и проверьте сердечный ритм с помощью приложения ЭКГ",
+      "price": 440,
+      "image": "https://www.istore.kg/media/products/7-41-Nike-Starlight-GPS.webp",
+      "color": "white",
+      "size": "64",
+      "feedbacks": [],
+      "id": 23
+    },
+    {
+      "name": "Watch Series 7 with Stainless Steel Case",
+      "description": "Сделайте ЭКГ, в любое время и в любом месте. Датчик измерения уровня кислорода в крови",
+      "price": 900,
+      "image": "https://www.istore.kg/media/products/stainless-graphite-41.webp",
+      "color": "black",
+      "size": "64",
+      "id": 24
+    },
+    {
+      "name": "iMac 27\" MXWV2",
+      "description": "8-ядерный процессор Intel Core i7 с частотой 3.8 ГГц. Графический процессор AMD Radeon Pro 5500XT с 8 ГБ памяти GDDR6",
+      "price": 2190,
+      "image": "https://www.istore.kg/media/products/27-2020.webp",
+      "color": "white",
+      "size": "512",
+      "id": 25
+    }
+  ]
+}
